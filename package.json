@@ -1,0 +1,28 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "learn nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitebsk121/nodejs.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Alexandr Demchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vitebsk121/nodejs/issues"
+  },
+  "homepage": "https://github.com/Vitebsk121/nodejs#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.23"
+  },
+  "dependencies": {
+    "cross-env": "^7.0.3"
+  }
+}
